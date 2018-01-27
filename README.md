@@ -84,6 +84,12 @@ $md_path = explode("com", $md_path_all);
 
 如果想要插入流量统计代码，那只需要把代码写到 default_header.php 文件内即可。
 
-——————
- 
-感谢 下面的大佬分享：https://doub.bid/dbrj-3/
+弄到这边接下来就是优化了，假如想像这位大佬这样下面带文字说明的下面就需要改代码了。
+
+示例：https://softs.fun
+
+接下里就需要改你安装目录下的resource/themes/bootstrap/index.php
+
+通过HTML代码，我自己捣鼓出，应该在文件的119-125行里面添加东西，然后我已经打包好了，直接去修改就行。
+
+最后感谢 下面的大佬的文章：https://doub.bid/dbrj-3/
