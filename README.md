@@ -13,7 +13,7 @@
 
 下载压缩文件后，解压并上传到已经搭建好 PHP和HTTP环境的服务器中（lnmp.org），然后即可上传文件和创建文件夹了！
 
-Github打包：https://github.com/ToyoDAdoubi/DirectoryLister/archive/master.zip
+链接：https://pan.baidu.com/s/1bqkpi6z 密码：hw2s
 
 
 #### 文件结构
